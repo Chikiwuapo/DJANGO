@@ -54,6 +54,7 @@ cpp
 http://127.0.0.1:8000/
 
 📖 Historias de Usuario Principales
+
 ✅ Como usuario, quiero ver una lista de productos para conocer el stock disponible.
 
 ✅ Como administrador, quiero poder registrar un nuevo producto.
