@@ -55,17 +55,9 @@ http://127.0.0.1:8000/
 
 📖 Historias de Usuario Principales
 
-✅ Como usuario, quiero ver una lista de productos para conocer el stock disponible.
+📖 Historias de Usuario Principales
 
-✅ Como administrador, quiero poder registrar un nuevo producto.
-
-✅ Como administrador, quiero editar la información de un producto existente.
-
-✅ Como administrador, quiero eliminar un producto que ya no se utilice.
-
-✅ Como usuario, quiero ver la lista de categorías existentes.
-
-✅ Como administrador, quiero poder crear, editar o eliminar categorías para organizar los productos.
+Como usuario, quiero visualizar una lista de productos para conocer el stock disponible. Como administrador, quiero registrar nuevos productos para mantener actualizado el inventario, así como editar la información de los productos existentes para corregir o actualizar datos, y también eliminar aquellos productos que ya no se encuentren disponibles o en uso. Además, como usuario, deseo acceder a la lista de categorías para explorar los productos según su tipo. Finalmente, como administrador, quiero poder gestionar las categorías, es decir, crear, editar y eliminar, con el fin de organizar eficientemente los productos dentro del sistema.
 
 🧩 Tecnologías Utilizadas
 
