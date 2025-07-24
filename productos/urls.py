@@ -4,6 +4,7 @@ from .views import (
     CategoriaListView, CategoriaCreateView, CategoriaUpdateView, CategoriaDeleteView
 )
 
+
 urlpatterns = [
     # Productos
     path('', ProductoListView.as_view(), name='producto_list'),
